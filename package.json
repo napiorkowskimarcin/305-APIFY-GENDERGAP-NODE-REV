@@ -1,0 +1,17 @@
+{
+  "name": "my-new-project",
+  "version": "0.0.1",
+  "description": "try to recreate exercise PAYGAP",
+  "dependencies": {
+    "apify": "^0.21.0",
+    "excel4node": "^1.7.2",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1"
+  },
+  "author": "mn",
+  "license": "ISC"
+}
